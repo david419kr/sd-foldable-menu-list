@@ -11,16 +11,14 @@ menu block list above the script panel in `txt2img` and `img2img`.
 - Collapses or expands the sibling menu blocks above that anchor
 - Persists open/closed state per tab in `localStorage`
 
+https://github.com/user-attachments/assets/2ecd897e-00d5-452a-831e-d425f7290ab7
+
 ## Install
 
 Place this folder under:
 
 `extensions/sd-foldable-menu-list`
 
+or use "Install from URL".
+
 Then restart WebUI.
-
-## Notes
-
-- This extension is JavaScript-only.
-- If you still keep a legacy script at `javascript/hide-fold-menu.js`, disable
-  or remove it to avoid duplicate behavior.
